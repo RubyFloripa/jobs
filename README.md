@@ -24,35 +24,23 @@ Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, dê
 
 ### Siga nosso Twitter <img src="https://cloud.githubusercontent.com/assets/3603793/18564664/f0a4eb36-7b62-11e6-83f8-4eaebee644b0.png" alt="Twitter" width="30" />
 
-Futuramente todas as oportunidades serão automáticamente compartilhadas no [@rubyfloripa](https://twitter.com/rubyfloripa).
+Futuramente todas as oportunidades serão automáticamente compartilhadas no [@rybyfloripa](https://twitter.com/rubyfloripa).
 
 ### Outros repositórios de vagas
 
 Esse repositório é específico para a postagem de vagas relacionadas a **ruby**,
 mas existem vagas para muitas outras áreas nesse mercado, esse repo é um fork
-da comunidade forkaram esse repositório e criaram outras listas específicas
-para diferentes _stacks_ e estados do país. Confira abaixo as outras
-listas onde você poderá postar sua vaga:
+do [frontendbr/vagas](https://github.com/frontendbr/vagas).
 
+Confira abaixo as outras listas onde você poderá postar sua vaga:
+
+- [Vagas para desenvolvedores Front-end](https://github.com/frontendbr/vagas)
 - [Vagas para desenvolvedores Android](https://github.com/androiddevbr/vagas)
 - [Vagas para desenvolvedores no Ceará](https://github.com/CangaceirosDevels/vagas_de_emprego)
 - [Vagas para desenvolvedores iOS e OSX](https://github.com/CocoaHeadsBrasil/vagas)
 - [Vagas pra desenvolvedores PHP](https://github.com/phpdevbr/vagas)
 - [Vagas pra desenvolvedores Stone Pagamentos](https://github.com/stone-pagamentos/vagas)
 
-
-
 ## Licença
 
-[MIT](/LICENSE) &copy; FrontendBR
-
-## Repositórios da Front-End Brasil
-
-- [Fórum](https://github.com/frontendbr/forum)
-- [Eventos](https://github.com/frontendbr/eventos)
-- [Vagas](https://github.com/frontendbr/vagas)
-- [Doe um livro](https://github.com/frontendbr/doe-um-livro)
-- [Poste mais!](https://github.com/frontendbr/poste-mais)
-- [Open Source](https://github.com/frontendbr/open-source)
-- [Front-End Week](https://github.com/frontendbr/frontendweek)
-- [Sugestões](https://github.com/frontendbr/sugestoes)
+[MIT](/LICENSE) &copy; RubyFloripa
