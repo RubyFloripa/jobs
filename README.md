@@ -24,7 +24,7 @@ Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, dê
 
 ### Siga nosso Twitter <img src="https://cloud.githubusercontent.com/assets/3603793/18564664/f0a4eb36-7b62-11e6-83f8-4eaebee644b0.png" alt="Twitter" width="30" />
 
-Futuramente todas as oportunidades serão automáticamente compartilhadas no [@rybyfloripa](https://twitter.com/rubyfloripa).
+Futuramente todas as oportunidades serão automáticamente compartilhadas no [@rubyfloripa](https://twitter.com/rubyfloripa).
 
 ### Outros repositórios de vagas
 
