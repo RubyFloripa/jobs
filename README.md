@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="https://avatars0.githubusercontent.com/u/16963863?v=3&s=200.jpg" alt="FrontEndBR" width="230" />
+  <img src="https://avatars3.githubusercontent.com/u/13301398?v=4&s=200.jpg" alt="RubyFloripa" width="230" />
 </p>
 
-# Vagas (Somente vagas de Front-End)
+# Vagas
 
-Espaço para a divulgação de vagas para desenvolvedores via _issues_ do Github.
+Espaço para a divulgação de vagas para desenvolvedores Ruby em Florianópolis-SC e região
 
-Vagas disponíveis em https://github.com/frontendbr/vagas/issues
+Para visualizar as vagas ou postar alguma utilize o [issues](https://github.com/rubyfloripa/jobs/issues) do Github.
 
 ### Cadastrando uma vaga
 
-Abra uma **issue** e, no titulo desta _issue_, coloque o nome da cidade entre colchetes seguido do nome da vaga e nome da empresa.
+Abra uma **issue** e, no titulo desta _issue_, coloque a localização entre colchetes seguido do nome da vaga e nome da empresa.
 
-Exemplo: `[São Paulo] Front-End Developer na [NOME DA EMPRESA]`
+Exemplo: `[Florianópolis] Ruby Developer na [NOME DA EMPRESA]`
 
 Informe quais _labels_ devemos adicionar, contendo o nível de experiência desejada e a forma de contração.
 
@@ -24,12 +24,12 @@ Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, dê
 
 ### Siga nosso Twitter <img src="https://cloud.githubusercontent.com/assets/3603793/18564664/f0a4eb36-7b62-11e6-83f8-4eaebee644b0.png" alt="Twitter" width="30" />
 
-Todas as oportunidades serão automáticamente compartilhadas no [@frontendbrvagas](https://twitter.com/frontendbrvagas).
+Futuramente todas as oportunidades serão automáticamente compartilhadas no [@rybyfloripa](https://twitter.com/rubyfloripa).
 
 ### Outros repositórios de vagas
 
-Como esse repositório é específico para a postagem de vagas de **front-end**,
-mas existem vagas para muitas outras áreas nesse mercado, algumas pessoas
+Esse repositório é específico para a postagem de vagas relacionadas a **ruby**,
+mas existem vagas para muitas outras áreas nesse mercado, esse repo é um fork
 da comunidade forkaram esse repositório e criaram outras listas específicas
 para diferentes _stacks_ e estados do país. Confira abaixo as outras
 listas onde você poderá postar sua vaga:
@@ -41,7 +41,7 @@ listas onde você poderá postar sua vaga:
 - [Vagas pra desenvolvedores Stone Pagamentos](https://github.com/stone-pagamentos/vagas)
 
 
- 
+
 ## Licença
 
 [MIT](/LICENSE) &copy; FrontendBR
