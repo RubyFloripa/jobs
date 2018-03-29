@@ -28,6 +28,7 @@ Lista de empresas situadas na Grande Florianópolis que utilizam Ruby:
 
 * [Celtec](http://celtec.com.br)
 * [GeekHunter](https://www.geekhunter.com.br)
+* [iTER](http://iter.net.br)
 * [KmOnline](http://www.kmonline.com.br)
 * [Neo Labor](https://neo-labor.com)
 * [Resultados Digitais](https://resultadosdigitais.com.br)
