@@ -31,7 +31,7 @@ Lista de empresas situadas na Grande Florianópolis que utilizam Ruby:
 * [Go Good](http://www.gogood.social)
 * [Hexagon Agriculture](https://hexagonagriculture.com)
 * [iTER](http://iter.net.br)
-* [KmOnline](https://www.kmonline.com.br)
+* [KM Online](https://www.kmonline.com.br)
 * [MineradorX](https://mineradorx.com)
 * [Neo Labor](https://neo-labor.com)
 * [Resultados Digitais](https://resultadosdigitais.com.br)
