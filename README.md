@@ -22,6 +22,23 @@ Informe quais _labels_ devemos adicionar, contendo o nível de experiência dese
 
 Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, dê manutenção à sua issue, a cada 14 dias (2 semanas) coloque um comentário que continua procurando para a vaga ou feche a mesma comentando se a pessoa foi contratada através do nosso grupo ou por fora. Caso a issue passe de 14 dias e não tiver manutenção, a mesma será fechada por um moderador do repositório.
 
+## Empresas
+
+Lista de empresas situadas na Grande Florianópolis que utilizam Ruby:
+
+* [Celtec](http://celtec.com.br)
+* [GeekHunter](https://www.geekhunter.com.br)
+* [Go Good](http://www.gogood.social)
+* [Hexagon Agriculture](https://hexagonagriculture.com)
+* [iTER](http://iter.net.br)
+* [KM Online](https://www.kmonline.com.br)
+* [MineradorX](https://mineradorx.com)
+* [Neo Labor](https://neo-labor.com)
+* [Resultados Digitais](https://resultadosdigitais.com.br)
+* [Sumone](http://www.sumone.com.br)
+
+## Misc
+
 ### Siga nosso Twitter <img src="https://cloud.githubusercontent.com/assets/3603793/18564664/f0a4eb36-7b62-11e6-83f8-4eaebee644b0.png" alt="Twitter" width="30" />
 
 Futuramente todas as oportunidades serão automáticamente compartilhadas no [@rubyfloripa](https://twitter.com/rubyfloripa).
