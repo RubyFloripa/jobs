@@ -57,6 +57,7 @@ Confira abaixo as outras listas onde você poderá postar sua vaga:
 - [Vagas para desenvolvedores iOS e OSX](https://github.com/CocoaHeadsBrasil/vagas)
 - [Vagas pra desenvolvedores PHP](https://github.com/phpdevbr/vagas)
 - [Vagas pra desenvolvedores Stone Pagamentos](https://github.com/stone-pagamentos/vagas)
+- [Vagas para desenvolvedores(as) Back-end](https://github.com/backend-br/vagas)
 
 ## Licença
 
