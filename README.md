@@ -36,6 +36,7 @@ Lista de empresas situadas na Grande Florianópolis que utilizam Ruby:
 * [Neo Labor](https://neo-labor.com)
 * [Resultados Digitais](https://resultadosdigitais.com.br)
 * [Sumone](http://www.sumone.com.br)
+* [Codeminer42](https://codeminer42.com)
 
 ## Misc
 
