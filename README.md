@@ -36,6 +36,7 @@ Lista de empresas situadas na Grande Florianópolis que utilizam Ruby:
 * [Neo Labor](https://neo-labor.com)
 * [Resultados Digitais](https://resultadosdigitais.com.br)
 * [Sumone](http://www.sumone.com.br)
+* [Codeminer42](https://codeminer42.com)
 
 ## Misc
 
@@ -51,12 +52,13 @@ do [frontendbr/vagas](https://github.com/frontendbr/vagas).
 
 Confira abaixo as outras listas onde você poderá postar sua vaga:
 
-- [Vagas para desenvolvedores Front-end](https://github.com/frontendbr/vagas)
-- [Vagas para desenvolvedores Android](https://github.com/androiddevbr/vagas)
-- [Vagas para desenvolvedores no Ceará](https://github.com/CangaceirosDevels/vagas_de_emprego)
-- [Vagas para desenvolvedores iOS e OSX](https://github.com/CocoaHeadsBrasil/vagas)
-- [Vagas pra desenvolvedores PHP](https://github.com/phpdevbr/vagas)
-- [Vagas pra desenvolvedores Stone Pagamentos](https://github.com/stone-pagamentos/vagas)
+- [Vagas para desenvolvedores(as) Front-end](https://github.com/frontendbr/vagas)
+- [Vagas para desenvolvedores(as) Android](https://github.com/androiddevbr/vagas)
+- [Vagas para desenvolvedores(as) no Ceará](https://github.com/CangaceirosDevels/vagas_de_emprego)
+- [Vagas para desenvolvedores(as) iOS e OSX](https://github.com/CocoaHeadsBrasil/vagas)
+- [Vagas para desenvolvedores(as) PHP](https://github.com/phpdevbr/vagas)
+- [Vagas para desenvolvedores(as) Stone Pagamentos](https://github.com/stone-pagamentos/vagas)
+- [Vagas para desenvolvedores(as) Back-end](https://github.com/backend-br/vagas)
 
 ## Licença
 
