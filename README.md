@@ -26,6 +26,7 @@ Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, dê
 
 Lista de empresas situadas na Grande Florianópolis que utilizam Ruby:
 
+* [Bonitour](https://www.bonitour.com.br)
 * [Celtec](http://celtec.com.br)
 * [GeekHunter](https://www.geekhunter.com.br)
 * [Go Good](http://www.gogood.social)
