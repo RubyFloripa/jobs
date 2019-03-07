@@ -24,22 +24,7 @@ Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, dê
 
 ## Empresas
 
-Lista de empresas situadas na Grande Florianópolis que utilizam Ruby:
-
-* [Bonitour](https://www.bonitour.com.br)
-* [Celtec](http://celtec.com.br)
-* [GeekHunter](https://www.geekhunter.com.br)
-* [Go Good](http://www.gogood.social)
-* [FACISC](http://facisc.org.br)
-* [Hexagon Agriculture](https://hexagonagriculture.com)
-* [iTER](http://iter.net.br)
-* [KM Online](https://www.kmonline.com.br)
-* [MineradorX](https://mineradorx.com)
-* [Neo Labor](https://neo-labor.com)
-* [OmniHunter](http://omnihunter.net/)
-* [Resultados Digitais](https://resultadosdigitais.com.br)
-* [Sumone](http://www.sumone.com.br)
-* [Codeminer42](https://codeminer42.com)
+Confira a lista de empresas situadas na região que utilizam Ruby no [repositório unificado do GuruBR](https://github.com/guru-br/catalogo_empresas#santa-catarina-sc)!
 
 ## Misc
 
